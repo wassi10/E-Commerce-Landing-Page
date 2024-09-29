@@ -268,7 +268,7 @@ nav {
 }
 
 .offer__container {
-  padding-block: 5rem;
+  padding: 5rem;
   display: grid;
   grid-template-columns:
     minmax(0, 1fr)
